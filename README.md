@@ -10,4 +10,4 @@ learning xml with p'toy
 - Stats & ML
 
 ## My Portfolios
-Please see my Google Data Studio dashboard [here] (https://docs.google.com/spreadsheets/d/15FpGdN3PhyReY6TwhzreAOwOZK52VaG6OunPlpo99XU/edit#gid=0)
+Please see my Google Data Studio dashboard [here] (https://datastudio.google.com/reporting/8633b6b0-f6de-4a27-bade-dc8927ed7f05)
